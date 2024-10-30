@@ -1,0 +1,16 @@
+{
+  "name": "taskify_express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev":"node app.js",
+    "start":"node --watch app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
